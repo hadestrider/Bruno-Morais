@@ -13,7 +13,7 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bruno-pic" height="600" style="border-radius:600px;" src="Picrewの「ぱん鉄式男探索者メーカー」でつくったよ！ https://picrew.me/share?cd=2kiqlZLabO #Picrew #ぱん鉄式男探索者メーカー">
+  <img align="right" src="https://discord.com/channels/727626781997400155/832618762116661258/892850801888862308">
 
 </div>
   
