@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/42617692/135327549-855dea79-48c7-487d-91e1-a8ca9caa26c9.png)">
+  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/727626781997400155/815586930561122324/892840093038034954">
 </div>">
 </div>
   
