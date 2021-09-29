@@ -13,8 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" 
-       src="<iframe src="https://twitter.com/macaronk1120/status/1281061700335067136/photo/1" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://twitter.com/macaronk1120/status/1281061700335067136/photo/1">via GIPHY</a></p>">
+  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>">
 </div>
   
   ##
