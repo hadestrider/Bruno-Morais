@@ -1,7 +1,7 @@
 #Olá eu sou o Bruno-Morais
 
 <div align="center">
-  <a href="https://github.com/brunomorais">
+  <a href="https://github.com/Bruno Morais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomorais&layout=compact&langs_count=7&theme=dracula"/>
 </div>
