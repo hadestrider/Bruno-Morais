@@ -13,7 +13,7 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="https://discord.com/channels/727626781997400155/815586930561122324/892846902255681537" height="150" style="border-radius:50px;" src="https://discord.com/channels/727626781997400155/815586930561122324/892846902255681537">
+  <img align="right" alt="Bruno-pic" height="150" style="border-radius:150px;" src="https://discord.com/channels/727626781997400155/815586930561122324/892846902255681537">
 
 </div>
   
